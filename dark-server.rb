@@ -412,7 +412,7 @@ end
 				sock.puts "		******* 	Don't use for unecthical or illegal purposes."
 				sock.puts "		 *****	 	Author never responsible for your actions"
 				sock.puts "		  *** 		Respect others' privacy"
-				sock.puts "		   *	 	Author: Ishan Madushanke"
+				sock.puts "		   *	 	Author: ghostdtdn"
 
 				sock.print "Uername: "
 				user_name = sock.gets.chomp
