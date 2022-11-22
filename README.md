@@ -1,1 +1,3 @@
 # black-backdoorv1.3
+Educational purposes only...
+Hack Windows & Linux
